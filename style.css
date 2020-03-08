@@ -1,0 +1,75 @@
+
+/* 태그명을 바로 가리킬 때 */
+.number1 {
+    height: 600px;
+    width: 600px;
+    background-color: black;
+    color: white;
+}
+#text {
+    font-size: 120px;;
+}
+
+.small-font{
+font-size : 10px;
+}
+.bg{background-image:url("http://www.forest.go.kr/newkfsweb/cmm/fms/FileDown.do?atchFileId=FILE_000000010008639&fileSn=0");
+background-size: cover;
+width : 690px;
+height:600px;
+
+}
+
+.white{
+    color: white;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.test{
+    margin:0 auto;
+    width:
+    background-color ; yellow;
+}
+
+
+
+
+/* 백그라운드 설정  */
+
+.width500 {
+    border: 2px solid yellow;
+    height: 400px;
+}
+
+.container-600 {
+    width: 900px;
+    height: 400px;
+    margin: 0 auto;
+    background-color: #acacac;
+}
+
+.wrap {
+    width: 900px;
+    height: 400px;
+    border: 2px solid black;
+    margin: auto;
+}
+
+.inner1 {
+    border: 2px solid red;
+    height: 600px;
+}
+
+.inner2 {
+
+    border: 2px solid yellow;
+    height: 400px;
+    margin-top: 50px;
+}
+
+.bigbutton {
+    font-size: 100px;
+    padding:68px 90px; 
+    border: 2px solid red;
+}
